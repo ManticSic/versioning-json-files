@@ -1,0 +1,7 @@
+{
+  "Version": "2",
+  "Name": "Some Name",
+  "MinVale": 0,
+  "MaxValue": 10,
+  "Value": 5
+}
